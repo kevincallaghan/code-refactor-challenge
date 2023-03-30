@@ -20,8 +20,9 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+mark {
     color: #d9dcd6;
+    background-color: #2a607c;
 }
 
 .header nav {
